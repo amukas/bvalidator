@@ -2,6 +2,7 @@
   "name": "bvalidator",
   "description": "Form validation jQuery plug-in.",
   "version": "1.0.4",
+  "main": "dist/jquery.bvalidator.js",
   "keywords": [
     "form",
     "validation",
